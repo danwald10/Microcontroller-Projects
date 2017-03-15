@@ -1,0 +1,6 @@
+I wrote C code for the XMC1100 microcontroller from Infineon.
+
+The project in a nutshell was to control an elevator and a keypad with LEDs. We had two days to program it with zero prior 
+experience.
+
+I did it for the course Microcontroller lab at TU Vienna.
